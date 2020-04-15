@@ -55,9 +55,11 @@ namespace assignment_four
 
                 }
 
-                goodbyeUser();
+                
                 
             }
+
+            goodbyeUser();
 
 
             
