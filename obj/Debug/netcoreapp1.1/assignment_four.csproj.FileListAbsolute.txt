@@ -1,0 +1,10 @@
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\obj\Debug\netcoreapp1.1\assignment_four.csprojAssemblyReference.cache
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\obj\Debug\netcoreapp1.1\assignment_four.AssemblyInfoInputs.cache
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\obj\Debug\netcoreapp1.1\assignment_four.AssemblyInfo.cs
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\bin\Debug\netcoreapp1.1\assignment_four.deps.json
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\bin\Debug\netcoreapp1.1\assignment_four.runtimeconfig.json
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\bin\Debug\netcoreapp1.1\assignment_four.runtimeconfig.dev.json
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\bin\Debug\netcoreapp1.1\assignment_four.dll
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\bin\Debug\netcoreapp1.1\assignment_four.pdb
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\obj\Debug\netcoreapp1.1\assignment_four.dll
+C:\Users\boatraj\Desktop\MPLS_dog_boarding_2\obj\Debug\netcoreapp1.1\assignment_four.pdb

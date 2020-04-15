@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\boatraj\\Desktop\\MPLS_dog_boarding_2\\assignment_four.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\boatraj\\Desktop\\MPLS_dog_boarding_2\\assignment_four.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\boatraj\\Desktop\\MPLS_dog_boarding_2\\assignment_four.csproj",
+        "projectName": "assignment_four",
+        "projectPath": "C:\\Users\\boatraj\\Desktop\\MPLS_dog_boarding_2\\assignment_four.csproj",
+        "packagesPath": "C:\\Users\\boatraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\boatraj\\Desktop\\MPLS_dog_boarding_2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\boatraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
