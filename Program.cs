@@ -42,13 +42,11 @@ namespace assignment_four
                     Console.WriteLine(computeRate(daysOfCare, serviceCodeA));
 
                 }
-                
-                if(serviceCode == "C")
+                else if(serviceCode == "C")
                 {
                     Console.WriteLine(computeRate(daysOfCare, serviceCodeC));
 
                 }
-                
                 else
                 {
                     Console.WriteLine("ERROR: Please select a valid service code (A or C)");
